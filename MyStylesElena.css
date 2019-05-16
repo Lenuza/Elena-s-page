@@ -13,7 +13,7 @@
    height: auto;
    margin: 0.2em;
    padding: 0;
-   background: url("images/icy7.gif") #6df;
+   background: url("https://user-images.githubusercontent.com/33415537/34185320-62d61970-e52d-11e7-81d5-58b8cc2c9d90.gif") #6DF;
    background-size: cover;
    text-align: justify;
    text-justify: inter-word;
@@ -126,7 +126,7 @@
  }
 
  #item-3 {
-   background: url(images/flower.jpg) rgba(150, 200, 255, 0.8);
+   background: url(https://user-images.githubusercontent.com/33415537/34185311-5a44c630-e52d-11e7-81c6-b1c4114323e3.jpg) rgba(150, 200, 255, 0.8);
    background-size: cover;
    min-height: 5em;
    /***otherwise flower.jpg will display as a tiny line on small screens */
@@ -134,7 +134,7 @@
  }
 
  #item-4 {
-   background: url(images/free.jpg) rgba(200, 200, 255, 0.8);
+   background: url(https://user-images.githubusercontent.com/33415537/34185313-5ee156b8-e52d-11e7-92df-6bc16b791000.jpg) rgba(200, 200, 255, 0.8);
    background-size: cover;
    min-height: 5em;
    /***otherwise free.jpg will display as a tiny line on small screens */
